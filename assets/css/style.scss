@@ -3,19 +3,11 @@
 
 @import "{{ site.theme }}";
 
-#home{
-  color: #FF0000;
-}
-
-#about{
-  color: red;
-}
-
 .btn {
   color: red;
 }
 
-.btn-active:hover {
+.btn:hover {
   background-color: white;
   color: black;
 }
