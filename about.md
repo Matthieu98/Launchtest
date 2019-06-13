@@ -3,4 +3,4 @@
   Meet Kennedy!
 ### Presales Interns
   Meet Matthieu!
-  ![Img]()
+  ![Img](https://github.com/Matthieu98/Launchtest/blob/master/testing.jpg)
