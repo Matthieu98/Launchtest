@@ -4,5 +4,5 @@
 ### Presales Interns
   ![Img](https://github.com/Matthieu98/Launchtest/blob/master/testing.jpg) <br/>
   Name: Matthieu Tapolsky<br/>
-  Hometown: Louisville, KY
+  Hometown: Louisville, KY<br/>
   Google Form Responses here
