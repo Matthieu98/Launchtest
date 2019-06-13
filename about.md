@@ -1,5 +1,6 @@
 ## About Us
-### Launch
+### Launch New Hires
   Meet Kennedy!
-### Presales
+### Presales Interns
   Meet Matthieu!
+  ![Img]()
