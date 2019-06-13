@@ -4,10 +4,10 @@
 @import "{{ site.theme }}";
 
 .btn {
-  color: red;
+  color: #00FF7F;
 }
 
 .btn:hover {
-  background-color: white;
-  color: black;
+  background-color: #505050;
+  color: white;
 }
