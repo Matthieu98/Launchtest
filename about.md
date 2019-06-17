@@ -5,7 +5,7 @@
   Hometown: <br/>
   Google Form Here<br/><br/><br/>
   
-  ![Image](/jamila_sylvester/jpg) <br/>
+  ![Image](/jamila_sylvester.jpg) <br/>
   Name: Jamila Sylvester <br/>
   Hometown: <br/>
   Google Form Here
