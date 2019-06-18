@@ -2,7 +2,7 @@
 ### Launch New Hires
   ![Image](/kennedy_gibson.jpg) <br/>
   Name: Kennedy Gibson <br/>
-  Hometown: <br/>
+  Hometown: Southbury, CT<br/>
   Google Form Here<br/><br/><br/>
   
   ![Image](/jamila_sylvester.jpg) <br/>
