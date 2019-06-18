@@ -7,7 +7,7 @@
   
   ![Image](/jamila_sylvester.jpg) <br/>
   Name: Jamila Sylvester <br/>
-  Hometown: <br/>
+  Hometown: Cincinnati, OH<br/>
   Google Form Here
 ### Presales Interns
   ![Image](/testing.jpg) <br/>
