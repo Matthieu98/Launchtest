@@ -1,5 +1,5 @@
-## About Us
-### Launch New Hires
+# About Us
+## Launch New Hires
   ![Image](/photos/kennedy_gibson.jpg) <br/>
   Name: Kennedy Gibson <br/>
   Hometown: Southbury, CT<br/>
@@ -42,7 +42,7 @@
   <br/>
   
   
-### Presales Interns
+## Presales Interns
   ![Image](/photos/testing.jpg) <br/>
   Name: Matthieu Tapolsky<br/>
   Hometown: Louisville, KY<br/>
