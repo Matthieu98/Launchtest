@@ -88,7 +88,7 @@
   
   ![Image](/photos/______) <br/>
   Name: Manik Trikha<br/>
-  Hometown: IL<br/>
+  Hometown: Vernon Hills, IL<br/>
 ##### How would you describe presales to someone who is not familiar with the career?
   I would describe presales as technical sales. PreSales is more involved and knowledgeable on the product line and they also architect a solution using their products to sell to the customer.																		
 ##### Why did you choose presales at Dell?
