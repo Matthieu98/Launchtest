@@ -22,12 +22,12 @@
   Hometown: Dubai, United Arab Emirates<br/>
   Google Form Responses here
   
-  ![Image](/photos/natsha_meinzen.JPG) <br/>
+  ![Image](/photos/natasha_meinzen.JPG) <br/>
   Name: Natasha Meinzen<br/>
   Hometown: Edwardsville, IL<br/>
   Google Form Responses here
   
-  ![Image](/photos/taina_bentiez.png) <br/>
+  ![Image](/photos/taina_benitez.png) <br/>
   Name: Taina Benitez<br/>
   Hometown: Cincinnati, OH<br/>
   Google Form Responses here
