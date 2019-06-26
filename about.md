@@ -35,5 +35,5 @@
   ![Image](/photos/austin_stegall.jpeg) <br/>
   Name: Austin Stegall <br/>
   Hometown: Charlotte, North Carolina<br/>
-  Google Form Responses here <br/><br/>
+  Google Form Responses here
   
