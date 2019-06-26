@@ -28,9 +28,9 @@
   Personality, being adaptable and teachable.
   <br/><br/>
   
-  ![Image](/photos/_____) <br/>
-  Name: <br/>
-  Hometown: <br/>
+  ![Image](/photos/dean_kouroupas.JPEG) <br/>
+  Name: Dean Kouroupas<br/>
+  Hometown: Ridgefield, CT<br/>
 ##### How would you describe presales to someone who is not familiar with the career?
   The link between the engineering side and sales side of a product or technology																				
 ##### Why did you choose presales at Dell?
