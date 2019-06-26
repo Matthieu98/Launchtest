@@ -17,22 +17,26 @@
   Hometown: Louisville, KY<br/>
   Google Form Responses here
   
+  
   ![Image](/photos/simran_kachroo.jpeg) <br/>
   Name: Simran Kachroo<br/>
   Hometown: Dubai, United Arab Emirates<br/>
   Google Form Responses here
+  
   
   ![Image](/photos/natasha_meinzen.JPG) <br/>
   Name: Natasha Meinzen<br/>
   Hometown: Edwardsville, IL<br/>
   Google Form Responses here
   
+  
   ![Image](/photos/taina_benitez.png) <br/>
   Name: Taina Benitez<br/>
   Hometown: Cincinnati, OH<br/>
   Google Form Responses here
   
+  
   ![Image](/photos/austin_stegall.jpeg) <br/>
   Name: Austin Stegall <br/>
-  Hometown: <br/>
+  Hometown: Charlotte, North Carolina<br/>
   Google Form Responses here
