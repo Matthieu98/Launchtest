@@ -3,7 +3,17 @@
   ![Image](/photos/kennedy_gibson.jpg) <br/>
   Name: Kennedy Gibson <br/>
   Hometown: Southbury, CT<br/>
-  Google Form Here<br/><br/><br/>
+  ##### How would you describe presales to someone who is not familiar with the career?
+  Yeet<br/>
+  ##### Why did you choose presales at Dell?
+  Yote<br/>
+  ##### Were you familiar with presales before hearing about the position?
+  Yate<br/>
+  ##### What skills do you believe are valued in a presales engineer?
+  Yeeted<br/>
+  ##### If you have any comments regarding a career in presales, or about your time at Dell, please list them below.
+  Yoted<br/>
+  Google Form Answers Here<br/><br/>
   
   ![Image](/photos/jamila_sylvester.jpg) <br/>
   Name: Jamila Sylvester <br/>
