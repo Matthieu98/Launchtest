@@ -28,7 +28,7 @@
   Personality, being adaptable and teachable.
   <br/><br/>
   
-  ![Image](/photos/dean_kouroupas.JPEG) <br/>
+  ![Image](/photos/dean_kouroupas.jpg) <br/>
   Name: Dean Kouroupas<br/>
   Hometown: Ridgefield, CT<br/>
 ##### How would you describe presales to someone who is not familiar with the career?
