@@ -116,13 +116,12 @@
   Name: Austin Stegall <br/>
   Hometown: Charlotte, North Carolina<br/>
 ##### How would you describe presales to someone who is not familiar with the career?
-  Yeet
+  You work closely with clients on behalf of Dell to help develop an IT solution that suits their current needs and goals.
 ##### Why did you choose presales at Dell?
-  Yote
+  Dell is an incredible company that I feel humbled to be a part of. Even as an intern, you feel as though your ideas matter and you are able to make a difference within the company.
 ##### Were you familiar with presales before hearing about the position?
-  Yate
+  Somewhat
 ##### What skills do you believe are valued in a presales engineer?
-  Yeeted
+  I believe there's a unique skill set between technology and business knowledge that would greatly benefit a Presales SE. Not only do you need to be familiar with a variety of different IT products to develop customized solutions for clients, you must also be able to explain those solutions to others in a clear, coherent way.
 ##### If you have any comments regarding a career in presales, or about your time at Dell, please list them below.
-  Yoted
-  
+  Before this internship, like many others, I was unsure what I wanted to do or where I wanted to work after graduating. Now, I'm absolutely certain where I want to be, and I'm very grateful to Dell Technologies for giving me this opportunity.						
