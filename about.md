@@ -26,6 +26,19 @@
   No
 ##### What skills do you believe are valued in a presales engineer?
   Personality, being adaptable and teachable.
+  <br/><br/>
+  
+  ![Image](/photos/_____) <br/>
+  Name: <br/>
+  Hometown: <br/>
+##### How would you describe presales to someone who is not familiar with the career?
+  The link between the engineering side and sales side of a product or technology																				
+##### Why did you choose presales at Dell?
+  Because I believe I have the ability to understand the engineering side but also able to talk to a customer
+##### Were you familiar with presales before hearing about the position?
+  No
+##### What skills do you believe are valued in a presales engineer?
+  Communication, understanding, ability to talk in front of group
   <br/>
   
   
@@ -72,6 +85,19 @@
 ##### What skills do you believe are valued in a presales engineer?
   Communication, Listening, Organization, Energetic, Outgoing
   <br/><br/>
+  
+  ![Image](/photos/______) <br/>
+  Name: Manik Trikha<br/>
+  Hometown: IL<br/>
+##### How would you describe presales to someone who is not familiar with the career?
+  I would describe presales as technical sales. PreSales is more involved and knowledgeable on the product line and they also architect a solution using their products to sell to the customer.																		
+##### Why did you choose presales at Dell?
+  Presales combines the technical thrill of software engineering with the social interaction and customer facing aspect of sales.
+##### Were you familiar with presales before hearing about the position?
+  Yes
+##### What skills do you believe are valued in a presales engineer?
+  Reading the room, communication skills, and an interest in technology
+  <br/><br/>					
   
   ![Image](/photos/taina_benitez.png) <br/>
   Name: Taina Benitez<br/>
