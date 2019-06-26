@@ -22,7 +22,7 @@
   Hometown: Dubai, United Arab Emirates<br/>
   Google Form Responses here
   
-  ![Image](/photos/natsha_meizen.jpg) <br/>
+  ![Image](/photos/natsha_meizen.JPG) <br/>
   Name: Natasha Meinzen<br/>
   Hometown: Edwardsville, IL<br/>
   Google Form Responses here
