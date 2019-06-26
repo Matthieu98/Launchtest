@@ -77,7 +77,7 @@
   Name: Natasha Meinzen<br/>
   Hometown: Edwardsville, IL<br/>
 ##### How would you describe presales to someone who is not familiar with the career?
-  Technology Representative on the sales team - almost the translator between the sales team and the specialty tech teams		No	Communication, Listening, Organization, Energetic, Outgoing																				
+  Technology Representative on the sales team - almost the translator between the sales team and the specialty tech teams																			
 ##### Why did you choose presales at Dell?
   Well known company and it was a position related to my major that didn't involve coding
 ##### Were you familiar with presales before hearing about the position?
