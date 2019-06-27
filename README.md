@@ -18,4 +18,5 @@ Scott Keaney, Senior Director - Americas Enterprise PreSales Strategy & Customer
 
 Angela Harper, Director of Presales Learning Acceleration for University and College Hires (LAUNCH), said that 
 
-Chrissy Sanglang, Process Improvement Change Agent, said that 
+Chrissy Sanglang, Process Improvement Change Agent, said that presales is a solutions-based team of System Engineers who use technical and business acumen along with relationship development and consultative selling skills to help clients thrive. Presales is responsible for the analysis, design and development of fully integrated technology solutions for clients.
+
