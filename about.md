@@ -86,7 +86,7 @@
   Communication, Listening, Organization, Energetic, Outgoing
   <br/><br/>
   
-  ![Image](/photos/maink_trikha.jpg) <br/>
+  ![Image](/photos/maink_trikha.JPG) <br/>
   Name: Manik Trikha<br/>
   Hometown: Vernon Hills, IL<br/>
 ##### How would you describe presales to someone who is not familiar with the career?
