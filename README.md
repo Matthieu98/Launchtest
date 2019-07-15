@@ -12,11 +12,9 @@ The role of presales is an odd position as you can ask people in two different c
 Presales is a term that can be interchanged with Systems Engineer which is what the presales interns and LAUNCH new hires are in training to become. A Systems Engineer provides the business knowledge and technical skills to implement technical strategies, evaluate products and provide a superior level of technical support that benefit the company. They work closely with a sales agent and with other specialists to provide the best support and clarity to customers about the solutions that they put forth for a companies issues.
 
 ### How Does Our Program Describe Presales?
-To see how the interns and new hires describe presales go to our "About" page and read all about what they think the position entails and what they knew about presales ahead of interviewing and eventually taking the position.
+To see how the interns and new hires describe presales go to our "About" page and read all about what they think the position entails and what they knew about presales ahead of interviewing and eventually taking the position. 
 
-Scott Keaney, Senior Director - Americas Enterprise PreSales Strategy & Customer Operations, said that 
-
-Angela Harper, Director of Presales Learning Acceleration for University and College Hires (LAUNCH), said that 
+Matt Keefe, Systems Engineer Manager, said that presales System Engineering is a unique profession that involves solving business challenges with unique technical solutions. An individual must possess a range of skills including concentrated listening, probing questioning and an ability to articulate and summarize a problem statement that is comprehensible to a both a technical and non-technical audience. Presales individuals must have a ability to facilitate a conversation, discussion or meeting with technical peers, business owners and executives to address technically oriented problems and develop comprehensive solutions to meet a business need.      Presales individuals earn the respect of their peers and customers by developing skills known as a trusted technical advisor with a business acumen.   
 
 Chrissy Sanglang, Process Improvement Change Agent, said that presales is a solutions-based team of System Engineers who use technical and business acumen along with relationship development and consultative selling skills to help clients thrive. Presales is responsible for the analysis, design and development of fully integrated technology solutions for clients.
 
